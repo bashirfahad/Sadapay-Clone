@@ -9,12 +9,10 @@ Getting Started\
 Technologies Used\
 Contributing
 
+![Frame 1](https://github.com/bashirfahad/sadapay-clone/assets/144224515/00f6048f-2714-4abc-bf86-f692b9e089b6)
+
 ## Features
 Enjoy an Easy and Beautiful user interface
-
-## App Video
-
-https://user-images.githubusercontent.com/104638885/223397871-a2419201-e0c2-47c9-a365-63e21feb7607.mp4
 
 ## Working
 I have cloned this app so that users can learn and enjoy the app, They can observe how different styles were implemented using Flutter.
@@ -22,7 +20,7 @@ I have cloned this app so that users can learn and enjoy the app, They can obser
 ## Getting Started
 To get started with SadaPay Clone, clone this repository onto your local machine:
 
-### https://github.com/AhmadMaazz/SadaPay-Clone-using-Flutter.git
+### https://www.linkedin.com/in/fahad-bashir-259798201/
 
 Once you have cloned the repository, navigate to the project directory and run the following command to install the required dependencies:
 
