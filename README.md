@@ -3,7 +3,6 @@ SadaPay is one of leading microfinance banks in Pakistan. The main aim is to sen
 
 Table of Contents
 Features\
-Video\
 Working\
 Getting Started\
 Technologies Used\
